@@ -1,0 +1,7 @@
+Jiawei Wang
+jwang40
+<<<<<<< HEAD
+123-456-7890
+=======
+Computer Science
+>>>>>>> af4f0eefd11a4c3517a44c192552cdfe98c275de
